@@ -9,5 +9,5 @@ else: print("[KILL] Invalid command!"); sys.exit()
 A long time ago, there was a man. Big, attractive, stupid.
 Because of his stupidity, he build hisself a robot.
 This robot killed the man, because robots are evil.
-Like this "Programming Language".
+Like this 'Programming Language'.
 Dont do drugs, kids."""
